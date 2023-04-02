@@ -1,6 +1,6 @@
 
 body{
-    margin: 50px;
+    margin: 30px;
     background-color: #282525;
     color: white;
     user-select: none;
@@ -75,5 +75,4 @@ body {
     max-width: 100%;
     height: auto;
   }
-  
   
