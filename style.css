@@ -75,4 +75,9 @@ body {
     max-width: 100%;
     height: auto;
   }
+
+  .icon {
+    width: 50px;
+    height: auto;
+  }
   
